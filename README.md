@@ -20,3 +20,6 @@ Some functions and algorithm will be posted my blog.
 ## ML_Project
 - Personal Project using Kaggle Dataset [Trending YouTube Video Statistics](https://www.kaggle.com/datasnaek/youtube-new)
 - Prediction youtube like and NLP Analysis with Korean and Japanese Youtube dataset.
+
+## 2. house
+- Nishika : [中古マンション価格予測](https://www.nishika.com/competitions/11/summary)
