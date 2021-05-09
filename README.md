@@ -23,3 +23,7 @@ Some functions and algorithm will be posted my blog.
 
 ## 2. house
 - Nishika : [中古マンション価格予測](https://www.nishika.com/competitions/11/summary)
+
+## 2. bitcoin
+- Nishika : [仮想通貨価格予測](https://www.nishika.com/competitions/12/summary)
+- You can download train_set from url above.
